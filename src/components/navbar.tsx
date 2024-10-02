@@ -1,4 +1,4 @@
-import logo from "../../public/icon/logo.png"
+
 import Button from "./button"
 
 function Navbar() {
